@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Python\aularepositorio\bin\Debug\net8.0\aularepositorio.exe
+C:\Users\Acer\Desktop\Python\aularepositorio\bin\Debug\net8.0\aularepositorio.deps.json
+C:\Users\Acer\Desktop\Python\aularepositorio\bin\Debug\net8.0\aularepositorio.runtimeconfig.json
+C:\Users\Acer\Desktop\Python\aularepositorio\bin\Debug\net8.0\aularepositorio.dll
+C:\Users\Acer\Desktop\Python\aularepositorio\bin\Debug\net8.0\aularepositorio.pdb
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.sourcelink.json
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.dll
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\refint\aularepositorio.dll
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.pdb
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\aularepositorio.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Python\aularepositorio\obj\Debug\net8.0\ref\aularepositorio.dll
